@@ -1,7 +1,15 @@
-Circle
-======
+Circle plus RPi AtoMMC firmware
+===============================
 
 > If you read this file in an editor you should switch line wrapping on.
+
+Raspberry Pi Atom MMC 
+---------------------
+
+This project contains circle and the experimental RPi AtoMMC firmware (circle/app/atommc5).
+
+Circle is configued to target a [Raspberry Pi 3 Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) in 64-bit mode.
+
 
 Overview
 --------
