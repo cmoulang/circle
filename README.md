@@ -6,10 +6,11 @@ Circle plus RPi AtoMMC firmware
 Raspberry Pi Atom MMC 
 ---------------------
 
-This project contains circle and the experimental RPi AtoMMC firmware (circle/app/atommc5).
+This contains circle and the experimental RPi AtoMMC firmware. A working version can be found in circle/app/atommc5/boot/ - copy the files to the first FAT partition on a SD card.
+
+The firmware source code is in circle/app/atommc5/. Follow the instructions below to setup a 64-bit build environment and do a make in this directory to create a new kernel8.img file.
 
 Circle is configued to target a [Raspberry Pi 3 Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) in 64-bit mode.
-
 
 Overview
 --------
